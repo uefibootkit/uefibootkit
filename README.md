@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">hi, i'm <a href="https://fakecrime.bio/lenzzy">bombcrash</a>!</h1>
+<h1 align="center">hi, i'm <a href="https://fakecrime.bio/lenzzy">uefibootkit</a>!</h1>
 <p align="center">
   <a href="https://fakecrime.bip/lenzzy">
   </a>
@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <a href="https://fakecrime.bio/lenzzy"><img src="https://github-readme-stats.vercel.app/api?username=bombcrash&hide_border=true&show_icons=true" alt="bombcrash's github stats"></a>
+  <a href="https://fakecrime.bio/lenzzy"><img src="https://github-readme-stats.vercel.app/api?username=uefibootkit&hide_border=true&show_icons=true" alt="uefibootkit's github stats"></a>
 </p>
