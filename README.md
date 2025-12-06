@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <a href="https://fakecrime.bio/lenzzy"><img src="https://github-readme-stats.vercel.app/api?username=uefibootkit&hide_border=true&show_icons=true" alt="uefibootkit's github stats"></a>
+  <a href="https://fakecrime.bio/lenzzy"><img src="https://https://gh-stats-gen.vercel.app/api?username=uefibootkit&hide_border=true&show_icons=true" alt="uefibootkit's github stats"></a>
 </p>
