@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://fakecrime.bio/lenzzy">
-    <img src="https://cdn.discordapp.com/attachments/1270313787232358482/1370789112004477010/b1e85faebd5223688016c4a827351ce5.gif?ex=6820c658&is=681f74d8&hm=2caebdd902739b87a6f2203bd78b2aaead66e34ef480e9a44bb060bca05fc28b&" alt="Banner" width="50%">
+    <img src="https://cdn.discordapp.com/icons/1311645415652986931/6557576899c51b3f8187ec3b0fc5ed3e.webp?ex=6820c658&is=681f74d8&hm=2caebdd902739b87a6f2203bd78b2aaead66e34ef480e9a44bb060bca05fc28b&" alt="Banner" width="50%">
   </a>
 </p>
 
 <h1 align="center">hi, i'm <a href="https://fakecrime.bio/lenzzy">uefibootkit</a>!</h1>
 <p align="center">
-  <a href="https://fakecrime.bip/lenzzy">
+  <a href="https://fakecrime.bio/lenzzy">
   </a>
 </p>
 <h3 align="center">welcome to my GitHub profile</h3>
