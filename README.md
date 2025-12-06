@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fakecrime.bio/lenzzy">
-    <img src="https://cdn.discordapp.com/icons/1311645415652986931/6557576899c51b3f8187ec3b0fc5ed3e.webp?ex=6820c658&is=681f74d8&hm=2caebdd902739b87a6f2203bd78b2aaead66e34ef480e9a44bb060bca05fc28b&" alt="Banner" width="50%">
+    <img src="?ex=6820c658&is=681f74d8&hm=2caebdd902739b87a6f2203bd78b2aaead66e34ef480e9a44bb060bca05fc28b&" alt="Banner" width="50%">
   </a>
 </p>
 
